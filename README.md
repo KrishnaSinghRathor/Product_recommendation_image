@@ -13,9 +13,9 @@ A full-stack application that allows users to upload an image of a product and r
 ## **Folder Structure**
 
 .
-├── .venv/ # Python virtual environment  (too big to upload that's why not in the github repo)
-├── images/ # Folder containing the dataset images  (too big to upload that's why not in the github repo)
-├── uploads/ # Folder to store uploaded images temporarily
+- **F├── .venv/ # Python virtual environment  (too big to upload that's why not in the github repo)
+- **F├── images/ # Folder containing the dataset images  (too big to upload that's why not in the github repo)
+- **F├── uploads/ # Folder to store uploaded images temporarily
 ├── 16871.jpg # Example image file
 ├── app.py # Flask backend application
 ├── filenames.pkl # Pickle file containing image filenames
