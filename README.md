@@ -7,6 +7,7 @@ A full-stack application that allows users to upload an image of a product and r
 ## **Project Overview**
 
  visual product matcher System helps users find similar fashion items from a pre-existing catalog. Users can upload an image, and the system recommends visually similar items. The backend uses **ResNet50** for feature extraction, while **k-Nearest Neighbors (k-NN)** finds similar images.
+Dataset - https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ---
 
