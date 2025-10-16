@@ -49,11 +49,7 @@ Images can be accessed via the /image/<filename> endpoint.
 
 ---
 
-API Endpoints
-
-POST /recommend – Upload an image to get top-5 recommendations.
-
-GET /image/<filename> – Fetch images from the images/ folder for display.
+Front-end - Streamlit
 
 -- Usage
 
